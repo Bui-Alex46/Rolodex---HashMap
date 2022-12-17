@@ -1,9 +1,0 @@
-
-*.o
-main
-main-tests
-results.json
-
-*~
-
-
